@@ -6,3 +6,4 @@
 - Fixed problems with Eldar Heavy Weapon Platforms
 - Fixed problems with DG Malignant Plaguecaster
 - Fixed problems with DG Plagueburst Crawler
+- Fixed problems with Necrons in general
