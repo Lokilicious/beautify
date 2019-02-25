@@ -4,5 +4,5 @@
 #Changelog:
 
 - Fixed problems with Eldar Heavy Weapon Platforms
-- Fixed problems with DG Malignant Plague Caster
+- Fixed problems with DG Malignant Plaguecaster
 - Fixed problems with DG Plagueburst Crawler
