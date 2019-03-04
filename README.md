@@ -11,3 +11,5 @@
 - Fixed problems with Orks DakkaJet & Trukk
 - Fixed problems with Hive Tyrant
 - Fixed problems with Tau Flyers
+- Fixed alignment issues
+- Fixed apostrophy issues
