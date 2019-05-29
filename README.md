@@ -1,6 +1,5 @@
 # Beautify
-40k Tool to beautify your army list
-http://40ktools.com
+A tool to beautify your Warhammer 40k army list - http://40ktools.com
 
 How to use it: https://www.youtube.com/watch?v=tNjGkozUCEY
 
