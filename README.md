@@ -4,10 +4,9 @@ http://40ktools.com
 
 How to use it: https://www.youtube.com/watch?v=tNjGkozUCEY
 
-# Changelog:
+## Changelog:
 
-## 1.0
-
+### 1.0
 * Introduced Summary Page (BETA)
 * Introduced Paper preservation mode (BETA)
 * Added Keywords to Units
