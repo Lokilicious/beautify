@@ -1,15 +1,14 @@
-# beautify
+# Beautify
 40k Tool to beautify your army list
+http://40ktools.com
+
+How to use it: https://www.youtube.com/watch?v=tNjGkozUCEY
 
 # Changelog:
 
-- Fixed problems with Eldar Heavy Weapon Platforms
-- Fixed problems with DG Malignant Plaguecaster
-- Fixed problems with DG Plagueburst Crawler
-- Fixed problems with Necrons in general
-- Fixed problems with Imperium Valkyries
-- Fixed problems with Orks DakkaJet & Trukk
-- Fixed problems with Hive Tyrant
-- Fixed problems with Tau Flyers
-- Fixed alignment issues
-- Fixed apostrophy issues
+## 1.0
+
+* Introduced Summary Page (BETA)
+* Introduced Paper preservation mode (BETA)
+* Added Keywords to Units
+* Bugfixing & Stabilization
