@@ -6,8 +6,8 @@ How to use it: https://www.youtube.com/watch?v=tNjGkozUCEY
 ## Changelog:
 
 ### 1.0
-* Introduced Summary Page (BETA)
-* Introduced Paper preservation mode (BETA)
+* Introduced Summary Page
+* Introduced Paper preservation mode
 * Added Keywords to Units
 * Bugfixing & Stabilization
 
