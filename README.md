@@ -11,9 +11,12 @@ How to use it: https://www.youtube.com/watch?v=tNjGkozUCEY
 * Added Keywords to Units
 * Bugfixing & Stabilization
 
+### 2.0 - coming soon
+* Introduced Killteam Support (BETA)
+* Introduced AoS Support (BETA)
+* Bugfixing & Stabilization
+
 ## Roadmap:
-* Killteam Support
-* AoS Support
 * Intelligent collation
 * Option to put army wide rules on a separate page
 
